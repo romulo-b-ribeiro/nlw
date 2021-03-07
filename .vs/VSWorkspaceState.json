@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\public",
+    "\\public\\scripts",
     "\\src",
     "\\src\\views"
   ],
-  "SelectedNode": "\\src\\server.js",
+  "SelectedNode": "\\src\\views\\create-orphanage.hbs",
   "PreviewInSolutionExplorer": false
 }
